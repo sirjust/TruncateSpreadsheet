@@ -55,6 +55,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="readFile.cs" />
+    <Compile Include="readFile_8090.cs" />
     <Compile Include="Tradesman.cs" />
     <Compile Include="writeFile.cs" />
   </ItemGroup>

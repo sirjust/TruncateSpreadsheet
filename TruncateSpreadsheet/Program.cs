@@ -10,10 +10,11 @@ namespace TruncateSpreadsheet
     {
         static void Main(string[] args)
         {
-            readFile read = new readFile();
+            readFile_8090 read = new readFile_8090();
             List<List<Tradesman>> cutList = read.readSpreadSheet(FilePaths.readPath);
+            List<List<Tradesman>> tradesmanList_8090 = read.produce8090List(cutList);
             writeFile write = new writeFile();
-            write.WriteSpreadSheet(cutList, FilePaths.writePath);
+            write.WriteSpreadSheet(tradesmanList_8090, FilePaths.writePath);
             Console.WriteLine("Truncation complete.");
             Console.Read();
         }
