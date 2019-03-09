@@ -1,0 +1,9 @@
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\bin\Release\TruncateSpreadsheet.exe.config
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\bin\Release\TruncateSpreadsheet.exe
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\bin\Release\TruncateSpreadsheet.pdb
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\bin\Release\EPPlus.dll
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\bin\Release\EPPlus.xml
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\obj\Release\TruncateSpreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\obj\Release\TruncateSpreadsheet.csproj.CopyComplete
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\obj\Release\TruncateSpreadsheet.exe
+C:\Users\SirJUST\source\repos\TruncateSpreadsheet\TruncateSpreadsheet\obj\Release\TruncateSpreadsheet.pdb
